@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\user\Desktop\Fm6\P16\P16\main.c(15,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\Fm6\P16\P16\main.c(18,18): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  P16.vcxproj -> C:\Users\user\Desktop\Fm6\P16\x64\Debug\P16.exe

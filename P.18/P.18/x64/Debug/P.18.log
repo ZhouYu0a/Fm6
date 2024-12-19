@@ -1,0 +1,5 @@
+﻿  c.c
+C:\Users\user\Desktop\Fm6\P.18\P.18\c.c(9,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\Fm6\P.18\P.18\c.c(10,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\Fm6\P.18\P.18\c.c(14,15): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  P.18.vcxproj -> C:\Users\user\Desktop\Fm6\P.18\x64\Debug\P.18.exe
